@@ -7,4 +7,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brooooooklyn&show_icons=true&theme=radical" />
 
-I'm working at [@Young](https://github.com/Young), living in Shanghai.
+I'm working at [@Young](https://github.com/779235394), living in Shanghai.
